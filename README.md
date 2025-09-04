@@ -33,7 +33,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Shrivas&color=blue)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
-[![Sahil’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night)](https://github.com/Sahil-Shrivas/github-readme-activity-graph)
+![Sahil’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night)
 
 
 
