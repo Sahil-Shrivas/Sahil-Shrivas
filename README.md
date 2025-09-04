@@ -16,12 +16,22 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sahil-shrivas-ba582b2a3//)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Shrivas&show_icons=true)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/prtp_sahil_/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Sahil_Shrivas/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ftsahilpr26k7/)
 
 ### Tech
 `JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` · `MongoDB` · `C++` · `Python` · `DSA`
+
+### 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Shrivas&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>)
+
+###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello+there!+👋;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor">
+</p>
+
 
 ---
