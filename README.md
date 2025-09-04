@@ -29,14 +29,11 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact)
 
-### Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Sahil-Shrivas)
-
 ### 🎉 Extras
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Shrivas&color=blue)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
-[![Sahil’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sahil’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night)](https://github.com/Sahil-Shrivas/github-readme-activity-graph)
 
 
 
