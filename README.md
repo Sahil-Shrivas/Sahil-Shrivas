@@ -27,7 +27,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### 🛠️ Tech Stack
 
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` · `MongoDB` · `C++` · `Python` · `DSA`
+`HTML` · `CSS` . `JavaScript` .  `C++` · `React` · `Node.js` · `Express` · `MongoDB` · `Java` · `Python` · `DSA` 
 
 ### 📊 GitHub Stats
 
