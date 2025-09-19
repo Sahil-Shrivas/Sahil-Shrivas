@@ -33,6 +33,8 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&hide=html,css,javascript&layout=compact&theme=tokyonight)
+
 
 ### 🎉 Extras
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Shrivas&color=blue)  
