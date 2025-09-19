@@ -31,7 +31,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### 🏆 Top Languages
 
-![Sahil-Shrivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Shrivas&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 
