@@ -29,9 +29,8 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 `HTML` · `CSS` . `JavaScript` .  `C++` · `React` · `Node.js` · `Express` · `MongoDB` · `Java` · `Python` · `DSA` 
 
-### 📊 GitHub Stats
+### 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 
 
