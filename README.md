@@ -27,7 +27,9 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### 🛠️ Tech Stack
 
-`HTML` · `CSS` . `JavaScript` .  `C++` · `React` · `Node.js` · `Express` · `MongoDB` · `Java` · `Python` · `DSA` 
+`C++` . `C` . `Java` · `Python` · `DSA`
+`HTML` · `CSS` . `JavaScript` . `MongoDB` · `Express` · `React` · `Node.js`
+`Numpy` . `Pandas` . `Matplotlib` . `Seaborn`
 
 ### 🏆 Top Languages
 
