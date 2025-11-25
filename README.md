@@ -33,7 +33,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 `Numpy` . `Pandas` . `Matplotlib` . `Seaborn`
 
-`Machine Learning` . `MS Excel (Data Analyst)`
+`Machine Learning` . `MS Excel (Data Analyst)` . `PostgreSQL`
 
 `Jupyter Notebook` . `Kaggle Notebook` . `Google Collab Notebook`
 
