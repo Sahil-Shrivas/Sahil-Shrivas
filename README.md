@@ -37,7 +37,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 `MS Excel (Data Analyst)` . `PostgreSQL` . `Power BI`
 
-`Jupyter Notebook` . `Kaggle Notebook` . `Google Collab Notebook`
+`Jupyter Notebook` . `Kaggle Notebook` . `Google Colab Notebook`
 
 ### 🏆 Top Languages
 
