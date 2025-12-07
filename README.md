@@ -61,6 +61,52 @@ Always learning. Always building.
 
 ---
 
+<h1 align="center">Hello! 👋 I am Sahil Shrivas</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello%20there!%20👋;DSA%20Enthusiast;Data%20Science%20%26%20Analytics;GenAI;MERN%20Stack%20Developer;Learner">
+</p>
+
+<p align="center">
+A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JSS Academy of Technical Education Noida (JSSATEN).  
+<br/>“Transforming ideas into seamless digital experiences.”
+</p>
+
+---
+
+### 🚀 About Me
+
+- 👨‍💻 I work with **DSA, Data Science & Analytics, Machine Learning, Deep Learning, and Generative AI**  
+- 💬 Ask me about **Web Development (MERN Stack), DSA, AI/ML, and real-world problem solving**  
+- 🤝 Open to collaborating on **impactful open-source projects**  
+- 📫 Reach me: **ftsahilpratap1034@gmail.com**  
+- ✨ Fun fact: I believe **dark mode boosts productivity by +10%** 😎
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-shrivas-ba582b2a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/prtp_sahil_/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/Sahil_Shrivas/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ftsahilpr26k7/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <code>C++</code> · <code>C</code> · <code>Java (Basics)</code> · <code>Python</code> · <code>DSA</code><br/>
+  <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>MongoDB</code> · <code>Express</code> · <code>React</code> · <code>Node.js</code><br/>
+  <code>NumPy</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>Seaborn</code><br/>
+  <code>Machine Learning</code> · <code>Deep Learning</code> · <code>Generative AI</code><br/>
+  <code>MS Excel</code> · <code>PostgreSQL</code> · <code>Power BI</code><br/>
+  <code>Jupyter Notebook</code> · <code>Kaggle Notebook</code> · <code>Google Colab Notebook</code>
+</p>
+
+---
+
 ### 🏆 GitHub Stats
 
 <p align="center">
@@ -70,3 +116,18 @@ Always learning. Always building.
 </p>
 
 ---
+
+### 🎉 Extras
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Shrivas&color=blue" alt="Profile Views" />  
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />  
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### ✨ Thanks for stopping by!  
+Always learning. Always building. 🚀
