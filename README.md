@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I am Sahil Shrivas</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello+there!+👋;MERN+Stack+Developer;DSA+Enthusiast">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello+there!+👋;MERN+Stack+Developer;DSA+Enthusiast;Data+Science+&+Analytics;GenAI;Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello+there!+👋 MERN+Stack+Developer DSA+Enthusiast Data+Science+&+Analytics GenAI;Learner">
 
 </p>
 
