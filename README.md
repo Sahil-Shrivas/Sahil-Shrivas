@@ -61,6 +61,7 @@ Always learning. Always building.
 
 ---
 
+
 <h1 align="center">Hello! 👋 I am Sahil Shrivas</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello%20there!%20👋;DSA%20Enthusiast;Data%20Science%20%26%20Analytics;GenAI;MERN%20Stack%20Developer;Learner">
@@ -83,6 +84,13 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ---
 
+### 🌟 What I Do
+
+I create solutions by combining **data, algorithms, and creative problem-solving**.  
+I love building **full-stack applications**, experimenting with **AI/ML models**, and exploring **data-driven insights**.  
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -97,12 +105,12 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <code>C++</code> · <code>C</code> · <code>Java (Basics)</code> · <code>Python</code> · <code>DSA</code><br/>
-  <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>MongoDB</code> · <code>Express</code> · <code>React</code> · <code>Node.js</code><br/>
-  <code>NumPy</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>Seaborn</code><br/>
-  <code>Machine Learning</code> · <code>Deep Learning</code> · <code>Generative AI</code><br/>
-  <code>MS Excel</code> · <code>PostgreSQL</code> · <code>Power BI</code><br/>
-  <code>Jupyter Notebook</code> · <code>Kaggle Notebook</code> · <code>Google Colab Notebook</code>
+💻 `C++` · `C` · `Java (Basics)` · `Python` · `DSA` <br/>
+🌐 `HTML` · `CSS` · `JavaScript` · `MongoDB` · `Express` · `React` · `Node.js` <br/>
+📊 `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` <br/>
+🤖 `Machine Learning` · `Deep Learning` · `Generative AI` <br/>
+📈 `MS Excel` · `PostgreSQL` · `Power BI` <br/>
+📒 `Jupyter Notebook` · `Kaggle Notebook` · `Google Colab Notebook`
 </p>
 
 ---
@@ -114,6 +122,26 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### 📂 Pinned Projects
+
+Here are some of my key repositories:
+
+- **[GenAI](https://github.com/Sahil-Shrivas/GenAI)** — Generative AI experiments, ANN, autoencoders, and deep learning implementations.  
+- **[CatVSDog-Image-Classification-Project](https://github.com/Sahil-Shrivas/CatVSDog-Image-Classification-Project)** — CNN-based image classification project.  
+- **[Deep_Learning-and-CNN](https://github.com/Sahil-Shrivas/Deep_Learning-and-CNN)** — ANN and CNN tutorials with practical examples.  
+- **[Sahil-Store-Ecommerce-Data-Power-BI](https://github.com/Sahil-Shrivas/Sahil-Store-Ecommerce-Data-Power-BI)** — Power BI dashboard and ecommerce data analysis.
+
+---
+
+### 🛤️ Learning & Roadmap
+
+- Currently exploring **Advanced Deep Learning and Generative AI models**  
+- Improving **full-stack web development skills** (MERN)  
+- Experimenting with **data visualization and analytics using Power BI & Python**  
+- Planning to contribute more to **open-source projects**
 
 ---
 
@@ -131,3 +159,4 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### ✨ Thanks for stopping by!  
 Always learning. Always building. 🚀
+
