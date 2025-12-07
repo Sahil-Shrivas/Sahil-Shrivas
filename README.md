@@ -14,7 +14,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ### 🚀 About Me
 
 - 👨‍💻 I currently work with **DSA, Data Science And Analytics, Generative AI**.  
-- 💬 Ask me about **Data Structures & Algorithms (DSA), Web Development (MERN Stack), Data Science & Analytics, and real-world problem solving**. 
+- 💬 Ask me about **Data Structures & Algorithms, MERN Stack, Data Science & Analytics, and real-world problem solving**. 
 - 🤝 Open to collaborating on **impactful open-source projects**.
 - 📫 Reach me: **ftsahilpratap1034@gmail.com**
 - ✨ Fun fact: I believe **dark mode boosts productivity by +10%** 😎
