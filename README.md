@@ -33,7 +33,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 `Numpy` . `Pandas` . `Matplotlib` . `Seaborn`
 
-`Machine Learning` . `Deep Learning`
+`Machine Learning` . `Deep Learning` . `GenAI`
 
 `MS Excel (Data Analyst)` . `PostgreSQL` . `Power BI`
 
