@@ -9,7 +9,9 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 <br/>“Transforming ideas into seamless digital experiences.”
 </p>
 
+
 ---
+
 
 ### 🚀 About Me
 
@@ -19,12 +21,14 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 - 📫 Reach me: **ftsahilpratap1034@gmail.com**
 - ✨ Fun fact: I believe **dark mode boosts productivity by +10%** 😎
 
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sahil-shrivas-ba582b2a3//)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/prtp_sahil_/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Sahil_Shrivas/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ftsahilpr26k7/)
+
 
 ### 🛠️ Tech Stack
 
@@ -41,12 +45,14 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 `Jupyter Notebook` . `Kaggle Notebook` . `Google Colab Notebook`
 
 
+
 ### 🛤️ Learning & Roadmap
 
 - Currently exploring **Machine Learning, Advanced Deep Learning and Generative AI models**  
 - Improving **full-stack web development skills** (MERN)  
 - Experimenting with **data visualization and analytics using Power BI & Python**  
 - Planning to contribute to **open-source projects**
+
 
 
 ### 🏆 Top Languages
