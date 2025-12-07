@@ -35,7 +35,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 `Machine Learning` . `Deep Learning` . `GenAI`
 
-`MS Excel (Data Analyst)` . `PostgreSQL` . `Power BI`
+`MS Excel` . `PostgreSQL` . `Power BI`
 
 `Jupyter Notebook` . `Kaggle Notebook` . `Google Colab Notebook`
 
