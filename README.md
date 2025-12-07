@@ -57,3 +57,16 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 Always learning. Always building.  
 
 ---
+
+
+---
+
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Shrivas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
