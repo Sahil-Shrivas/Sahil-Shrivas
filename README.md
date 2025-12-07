@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JSS Noida.  
+A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JSS Academy of Technical Education Noida (JSSATEN).  
 <br/>“Transforming ideas into seamless digital experiences.”
 </p>
 
@@ -13,11 +13,11 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### 🚀 About Me
 
-- 👨‍💻 I work with **Data Structures & Algorithms, and MERN Stack**.
-- 💬 Ask me about **web dev, DSA, and real world problem sloving**.
+- 👨‍💻 I currently work with **DSA, Data Science And Analytics, Generative AI**.  
+- 💬 Ask me about **Data Structures & Algorithms (DSA), Web Development (MERN Stack), Data Science & Analytics, and real-world problem solving**. 
 - 🤝 Open to collaborating on **impactful open-source projects**.
 - 📫 Reach me: **ftsahilpratap1034@gmail.com**
-- ✨ Fun fact: I believe dark mode adds +10 productivity.
+- ✨ Fun fact: I believe **dark mode boosts productivity by +10%** 😎
 
 ### 🌐 Connect with Me
 
