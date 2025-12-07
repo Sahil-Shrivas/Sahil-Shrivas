@@ -1,6 +1,8 @@
 <h1 align="center">Hello! 👋 I am Sahil Shrivas</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello+there!+👋;MERN+Stack+Developer;DSA+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello+there!+👋;MERN+Stack+Developer;DSA+Enthusiast;Data+Science+&+Analytics;GenAI;Learner">
+
 </p>
 
 <p align="center">
@@ -52,5 +54,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ![Sahil’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night)
 
 
+### ✨ Thanks for stopping by!  
+Always learning. Always building.  
 
 ---
