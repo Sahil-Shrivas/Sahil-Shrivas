@@ -28,6 +28,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/prtp_sahil_/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Sahil_Shrivas/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ftsahilpr26k7/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sahilshrivas)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SAHIL_PRATAP8)
 
 
@@ -82,7 +83,7 @@ Always learning. Always building.
 <a href="https://twitter.com/@SAHIL_PRATAP8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SAHIL_PRATAP8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29832295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29832295" height="30" width="40" /></a>
-<a href="https://kaggle.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sahilshrivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
 <a href="https://medium.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pysolanki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/27abhi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
 </p>
