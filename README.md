@@ -28,6 +28,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 <a href="https://linkedin.com/in/sahil-shrivas-ba582b2a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sahilshrivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/Sahil_Shrivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prtp_sahil_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prtp_sahil_" height="30" width="40" /></a>
 
 <!-- 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Sahil_Shrivas/)
@@ -83,10 +84,3 @@ Always learning. Always building.
 
 ---
 
-
-
-
-
-
-
-</p>
