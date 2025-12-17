@@ -28,7 +28,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/prtp_sahil_/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Sahil_Shrivas/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ftsahilpr26k7/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sahilshrivas)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sahilshrivas)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SAHIL_PRATAP8)
 
 
