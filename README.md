@@ -64,10 +64,9 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 - Currently exploring **Machine Learning, Advanced Deep Learning and Generative AI models**  
 - Improving **full-stack web development skills** (MERN)  
-- Experimenting with **data visualization and analytics using Power BI & Python**  
-- Planning to contribute to **open-source projects**
-
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/92/52/59/360_F_292525912_t2GgKR08Oyy5cwr31QUVbcdoWvw2laRV.jpg">
+- Experimenting with **data visualization and analytics using Power BI & Python**
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/92/52/59/360_F_292525912_t2GgKR08Oyy5cwr31QUVbcdoWvw2laRV.jpg"> 
+- Planning to contribute to **open-source projects**          
 
 
 ### 🏆 Top Languages
