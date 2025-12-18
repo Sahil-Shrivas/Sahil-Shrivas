@@ -21,9 +21,10 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 - 📫 Reach me: **ftsahilpratap1034@gmail.com**
 - ✨ Fun fact: I believe **dark mode boosts productivity by +10%** 😎
 
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
 ### 🌐 Connect with Me
+
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
 <a href="https://twitter.com/@SAHIL_PRATAP8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SAHIL_PRATAP8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-shrivas-ba582b2a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-shrivas-ba582b2a3" height="30" width="40" /></a>
