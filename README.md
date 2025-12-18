@@ -4,6 +4,8 @@
 <!-- <h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3> -->
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
+
 <p align="center">
 A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JSS Academy of Technical Education Noida (JSSATEN).  
 <br/>“Transforming ideas into seamless digital experiences.”
