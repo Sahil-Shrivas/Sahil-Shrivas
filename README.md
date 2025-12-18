@@ -25,7 +25,6 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ### 🌐 Connect with Me
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/programming-languages-learning-software-coding-courses-website-development-class-script-writing-it-programmers-cartoon-characters_10782679.htm#fromView=keyword&page=1&position=0&uuid=5e6fc6b2-1db3-4653-a923-a331a88553b0&query=Programming+languages">
 
 <a href="https://twitter.com/@SAHIL_PRATAP8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SAHIL_PRATAP8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-shrivas-ba582b2a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-shrivas-ba582b2a3" height="30" width="40" /></a>
