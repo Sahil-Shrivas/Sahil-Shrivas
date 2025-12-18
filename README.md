@@ -67,11 +67,10 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 - Experimenting with **data visualization and analytics using Power BI & Python**  
 - Planning to contribute to **open-source projects**
 
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/92/52/59/360_F_292525912_t2GgKR08Oyy5cwr31QUVbcdoWvw2laRV.jpg">
 
 
 ### 🏆 Top Languages
-
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/92/52/59/360_F_292525912_t2GgKR08Oyy5cwr31QUVbcdoWvw2laRV.jpg">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 
