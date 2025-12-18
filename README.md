@@ -71,7 +71,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### 🏆 Top Languages
 
-<img align="right" alt="Coding" width="400" src="(https://img.freepik.com/free-vector/programming-concept-it-education-student-writing-software-coding-application-java-script-it-project-digital-technology-development-website-interface-vector-illustration_613284-1712.jpg?semt=ais_hybrid&w=740&q=80)">
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2025/12/acca-salary-in-uk.webp">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shrivas&layout=compact&theme=tokyonight)
 
