@@ -1,7 +1,15 @@
 <h1 align="center">Hello! 👋 I am Sahil Shrivas</h1>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Hello%20there!%20👋;DSA%20Enthusiast;MERN%20Stack%20Developer;Data%20Science%20%26%20Analytics;GenAI;Learner">
 <!-- <h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3> -->
+</p>
+
+<p align="center">
+🌐 <b>Portfolio:</b>
+<a href="https://portfolio-website-one-eosin-91.vercel.app/" target="_blank">
+https://portfolio-website-one-eosin-91.vercel.app/
+</a>
 </p>
 
 <p align="center">
