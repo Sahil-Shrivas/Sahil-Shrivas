@@ -101,14 +101,11 @@ LinkedIn: (https://www.linkedin.com/in/sahil-shrivas-ba582b2a3/)
 
 Email: (ftsahilpratap1034@gmail.com)
 
----
 
 ## ⭐ Support
 
 If you like this project, please ⭐ star this repository.
 Thank you for visiting! 🚀
-
----
 
 
 ### ✨ Thanks for stopping by!  
@@ -116,4 +113,3 @@ Thank you for visiting! 🚀
 Always learning. Always building.  
 
 ---
-
