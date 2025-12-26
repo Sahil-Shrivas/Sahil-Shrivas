@@ -91,7 +91,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 ![Sahil’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Shrivas&theme=tokyo-night)
 
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 Feel free to get in touch or follow me on:
 
@@ -102,7 +102,7 @@ LinkedIn: (https://www.linkedin.com/in/sahil-shrivas-ba582b2a3/)
 Email: (ftsahilpratap1034@gmail.com)
 
 
-## ⭐ Support
+### ⭐ Support
 
 If you like this project, please ⭐ star this repository.
 Thank you for visiting! 🚀
