@@ -10,6 +10,7 @@
 <a href="https://portfolio-website-one-eosin-91.vercel.app/" target="_blank">
   Click here
 </a>
+  <br>
   <b>Resume:</b>
   <a href="https://drive.google.com/file/d/1BAPYHWer_Tv4Fzaj7pNgTsMUgMVqGMyF/view?usp=drive_link" target="_blank">
   Click here
