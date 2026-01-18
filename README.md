@@ -8,8 +8,7 @@
 <p align="center">
 🌐 <b>Portfolio:</b>
 <a href="https://portfolio-website-one-eosin-91.vercel.app/" target="_blank">
-  Portfolio
-<!-- https://portfolio-website-one-eosin-91.vercel.app/ -->
+  Click here
 </a>
 </p>
 
