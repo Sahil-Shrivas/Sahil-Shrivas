@@ -102,9 +102,11 @@ Feel free to get in touch or follow me on:
 
 GitHub: https://github.com/Sahil-Shrivas
 
-LinkedIn: (https://www.linkedin.com/in/sahil-shrivas-ba582b2a3/)
+LinkedIn: https://www.linkedin.com/in/sahil-shrivas-ba582b2a3/
 
 Email: (ftsahilpratap1034@gmail.com)
+
+LeetCode: https://leetcode.com/u/Sahil_Shrivas/
 
 
 ### ⭐ Support
