@@ -118,7 +118,7 @@ Thank you for visiting! 🚀
 Always learning. Always building.  
 
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Sahil Shrivas**
 
