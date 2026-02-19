@@ -109,7 +109,7 @@ LeetCode: (https://leetcode.com/u/Sahil_Shrivas)
 
 ### ⭐ Support
 
-If you like this project, please ⭐ star this repository.
+If you like this project, please ⭐ star my repository.
 Thank you for visiting! 🚀
 
 
