@@ -12,7 +12,7 @@
 </a>
   <br>
 👋 <b>Resume:</b>
-  <a href="https://drive.google.com/file/d/1BAPYHWer_Tv4Fzaj7pNgTsMUgMVqGMyF/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1PaOhqDGaPngI9WkMUMQtGvykEzynHH3w/view?usp=drive_link" target="_blank">
   Click here
 </a>
 </p>
