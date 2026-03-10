@@ -7,7 +7,7 @@
 
 <p align="center">
 🌐 <b>Portfolio:</b>
-<a href="https://portfolio-website-one-eosin-91.vercel.app/" target="_blank">
+<a href="https://portfolio-sahil-shrivas.vercel.app/" target="_blank">
   Click here
 </a>
   <br>
