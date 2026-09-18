@@ -64,13 +64,15 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 `HTML` · `CSS` . `JavaScript` . `MongoDB` · `Express` · `React` · `Node.js`
 
-`Numpy` . `Pandas` . `Matplotlib` . `Seaborn`
+`Numpy` . `Pandas` . `Matplotlib` . `Seaborn` . `BeautifulSoup` . `Selenium` . `Scrapy` . `TensorFlow` . `Keras`
 
-`Machine Learning` . `Deep Learning` . `GenAI`
+`OpenCV` . `MediaPipe` . `Yolo` . `Object Detection` . `BeautifulSoup` . `Selenium` . `Scrapy`
+
+`Machine Learning` . `Supervised Learning` . `Unsupervised Learning` . `ML Algorithms` . `Deep Learning` . `DL Algorithms` . `GenAI`
 
 `MS Excel` . `PostgreSQL` . `Power BI`
 
-`Jupyter Notebook` . `Kaggle Notebook` . `Google Colab Notebook`
+`Jupyter Notebook` . `Kaggle Notebook` . `Google Colab Notebook` . `Postman`
 
 
 
