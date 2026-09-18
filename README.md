@@ -13,7 +13,7 @@
   <br>
 👋 <b>Resume:</b>
   <!-- <a href="https://drive.google.com/file/d/1PaOhqDGaPngI9WkMUMQtGvykEzynHH3w/view?usp=drive_link" target="_blank"> -->
-  <a href="https://docs.google.com/document/d/13PZnk1RKZs3-z3GoKLNtrOZg07C6NTAvMN59NpL-LM0/edit?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1x5RbrAgJK6AlW1_PQKWf3ew_fNaCSOXh/view?usp=sharing" target="_blank">
   Click here
 </a>
 </p>
