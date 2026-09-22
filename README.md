@@ -38,7 +38,7 @@ A relentless pursuer of growth and learning. Currently pursuing B.Tech (IT) @ JS
 
 ### 🌐 Connect with Me
 
-<h2 align="right">👤 Profile</h2>
+<h2 align="left">👤 Profile</h2>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1jT4Bg7BoGjGsrA9PFqgunDzidsJbwXxA">
 
 <!-- <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"> -->
